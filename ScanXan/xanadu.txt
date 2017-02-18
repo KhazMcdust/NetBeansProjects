@@ -1,0 +1,7 @@
+This is just test to check
+out the xanadu file reader abilities for 
+Java.
+
+This is jus,t test, to check
+out th,e xanadu file reader, abilities for 
+Java.
