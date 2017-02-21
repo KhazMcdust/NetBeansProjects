@@ -32,9 +32,9 @@ public class ScanSum {
             
             while(s.hasNext()){
                 if(s.hasNextDouble()){
-                    //double currentValue = s.nextDouble();
-                    //System.out.print(+currentValue);
-                    sum += s.nextDouble();
+                    double currentValue = s.nextDouble();
+                    System.out.printf("%f\n",currentValue);
+                    sum += currentValue;
                     
                 }
                 else
